@@ -8,9 +8,9 @@ A two-page Power BI dashboard that tracks transaction advisory spend against a b
 ## Dashboard Preview
 
 | Page 1: Executive Overview | Page 2: Spend Breakdown |
-|---|---|
-| ![Page 1](<img width="880" height="492" alt="1" src="https://github.com/user-attachments/assets/a8f4f125-0320-4c5a-bd94-8ea4a9f32f70" />) | 
-!  [Page 2](<img width="897" height="512" alt="2" src="https://github.com/user-attachments/assets/e8f4948a-2f67-420c-9197-1fad501a49bc" />) |
+|<img width="880" height="492" alt="1" src="https://github.com/user-attachments/assets/ec9ecd95-09be-4724-8f55-2eacef87c546" />
+ |<img width="897" height="512" alt="2" src="https://github.com/user-attachments/assets/a332e6ac-0912-448e-a1b1-37c5608dffb4" />
+ |
 
 ---
 
